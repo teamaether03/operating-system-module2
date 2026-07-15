@@ -34,6 +34,10 @@
   - System Libraries
   - System Utilities
   - Device Drivers
+  - Filesystem
+  - Init System
+  - Package Manager
+  - Desktop Environment [Optional] 
 - Shell vs Kernel
   - Command Interpreter
   - GUI vs CLI
